@@ -31,11 +31,11 @@ The features added to the base version of this game are-
 
 ## Code structure
 
-<img src="code_str.pdf">
+<img src="code_str">
 
 ## Output of the program
 
-<img src="output.gif"/>
+<img src="output"/>
 
 ## Rubric points addressed
 
