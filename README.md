@@ -31,7 +31,7 @@ The features added to the base version of this game are-
 
 ## Code structure
 
-<img src="code_str"/>
+<img src="code_struct"/>
 
 ## Output of the program
 
