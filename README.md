@@ -31,7 +31,7 @@ The features added to the base version of this game are-
 
 ## Code structure
 
-<img src="code_str">
+<img src="code_str.gif">
 
 ## Output of the program
 
@@ -39,24 +39,24 @@ The features added to the base version of this game are-
 
 ## Rubric points addressed
 
-1.The project demonstrates an understanding of C++ functions and control structures.
+* The project demonstrates an understanding of C++ functions and control structures.
   * game.h, line 34
   * boundary.h, line 20
   * renderer.cpp, line 79
-2.The project uses Object Oriented Programming techniques.
+* The project uses Object Oriented Programming techniques.
   * boundary.h
   * spl_food.h
-3.Classes use appropriate access specifiers for class members.
+* Classes use appropriate access specifiers for class members.
   * boundary.h
   * spl_food.h
-4.Overloaded functions allow the same function to operate on different parameters.
+* Overloaded functions allow the same function to operate on different parameters.
   * boundary.h line 12,16
   * boundary.h line 13,17 and so on
-5.Classes encapsulate behavior.
+* Classes encapsulate behavior.
   * boundary.h
     class Boundary->Boundary Cell(x,y) is able to determine if the point intersects with the boundary
-6.The project makes use of references in function declarations.
+* The project makes use of references in function declarations.
   * Examples of pass-by-ref
     Renderer.h line 15
-7.The project uses destructors appropriately.
+* The project uses destructors appropriately.
   * game.cpp line 22,23
