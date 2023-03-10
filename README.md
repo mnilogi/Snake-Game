@@ -38,7 +38,7 @@ The features added to the base version of this game are-
 <img src="output"/>
 
 ## Rubric points addressed
-
+----
 * The project demonstrates an understanding of C++ functions and control structures.
   * game.h, line 34
   * boundary.h, line 20
